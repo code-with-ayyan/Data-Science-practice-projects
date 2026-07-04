@@ -15,21 +15,25 @@ The main goal of this repository is to track my learning journey, build solid al
 
 ## 📂 Project Portfolio (Current Tracks)
 
-### 🚗 1. CarDekho Dataset - Preprocessing & Text Parsing
+### 1. CarDekho Dataset - Preprocessing & Text Parsing
 - **File:** `car_project.ipynb` / `cardataset.csv`
 - **Description:** A comprehensive data cleaning and feature engineering project on 8,000+ car records. It involves complex string formatting (extracting numerical values from alphanumeric strings like `CC`, `bhp`, `kmpl`), handling missing records using numerical medians, extracting brand categories, and engineering time-based metrics like `car_age`. It also includes deep dives into outlier handling techniques and structural categorical encodings (One-Hot and Ordinal Mapping).
 
-### 🤖 2. Google Play Store Dataset Analysis
+### 2. Google Play Store Dataset Analysis
 - **File:** `google_playstore.ipynb` / `google_play_store_dataset.csv`
 - **Description:** Exploratory Data Analysis (EDA) focused on app store dynamics. Cleaned and processed raw user installation numbers, ratings, app sizes, and pricing structures to build structural distribution metrics. Includes calculating estimated revenue parameters for paid apps and identifying high-volume market segments.
 
-### 🏢 3. Airbnb NYC 2019 Data Analysis
+### 3. Airbnb NYC 2019 Data Analysis
 - **File:** `AB_NYC_2019.ipynb` / `AB_NYC_2019.csv`
 - **Description:** Spatial and financial analysis of the New York City Airbnb housing market. Focused on profiling neighborhood groups, investigating right-skewed pricing distributions, mapping price densities across coordinates, and filtering availability patterns to draw structural domain insights.
 
-### 🛒 4. Supermarket Sales Analysis
+### 4. Supermarket Sales Analysis
 - **File:** `SuperMarketAnalysis.ipynb` / `SuperMarketAnalysis.csv`
 - **Description:** A detailed business analytics and retail dataset pipeline. Implemented data sorting routines by chronological dates, analyzed consumer product lines across gender distributions, calculated financial gross income parameters, and correlated transactional payment methods against aggregate customer ratings.
+
+### 5. Insurance dataset : Made it ready to train a ML model
+- **File:** `insurance.ipynb` / `insurance.csv`
+- **Description:** A detailed EDA (Exploratary Data Analysis), data cleaning, data preprocessing, feature engineering, feature scalling and selection project. Made the dataset ready to train a ML model. Soon going to made the ML model using this data set.
 
 ---
 
@@ -53,4 +57,5 @@ jupyter notebook
 ```
 
 ---
+
 *Maintained with consistency and passion for backend development and data engineering.*
