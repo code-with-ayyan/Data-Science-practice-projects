@@ -35,6 +35,11 @@ The main goal of this repository is to track my learning journey, build solid al
 - **File:** `insurance.ipynb` / `insurance.csv`
 - **Description:** A detailed EDA (Exploratary Data Analysis), data cleaning, data preprocessing, feature engineering, feature scalling and selection project. Made the dataset ready to train a ML model. Soon going to made the ML model using this data set.
 
+### 6. Heart Disease Dataset: Data Cleaning, Exploratory Data Analysis (EDA), and Data Preprocessing
+- **File:** `heart.ipynb`/ `heart.csv`
+- **Description:** This notebook demonstrates a complete data preprocessing workflow for the Heart Disease dataset. It includes data cleaning, handling missing values, exploratory data analysis (EDA), feature encoding, feature scaling, and feature selection techniques. The objective is to prepare a clean and high-quality dataset for building accurate and reliable machine learning models. Soon going to made the ML model using this data set.
+
+
 ---
 
 ## 🗂️ How to Run the Notebooks
