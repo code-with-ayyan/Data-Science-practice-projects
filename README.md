@@ -8,7 +8,7 @@ The main goal of this repository is to track my learning journey, build solid al
 
 ## 🛠️ Tech Stack & Tools Used
 - **Language:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, scipy
 - **Environment:** Jupyter Notebook / VS Code
 
 ---
